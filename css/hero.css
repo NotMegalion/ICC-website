@@ -1,0 +1,22 @@
+
+.has-bg-img2 {
+  background: url('../images/group2crop.jpg')center center; background-size:cover;
+}
+.has-bg-img3 {
+  background: url('../images/group7crop.jpg')center center; background-size:cover;
+}
+.has-bg-chr {
+  background: url('../images/church.jpg')center center; background-size:cover;
+}
+.main {
+padding: 0 1.5rem;
+}
+.container{
+  max-width: 1344px;
+  flex-grow: 1;
+flex-shrink: 0;
+}
+.sec{
+  padding-top: 2rem;
+  padding-bottom: 2rem
+}
